@@ -1,0 +1,6 @@
+/pyWeibo.egg-info/
+/vendor/
+/.idea/
+
+*.pyc
+*~
